@@ -1,1 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
 
+*{
+    margin:0;
+}
+
+
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: chocolate;
+    font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+
+li{
+    float:left;
+}
+li a{
+    display:block;
+    color:darkred;
+    text-decoration:none;
+    padding: 14px 16px;
+}
